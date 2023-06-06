@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfrasc\MatomoTracker;
+namespace Agapanthus\MatomoTracker;
 
 use Exception;
 use \Illuminate\Http\Request;

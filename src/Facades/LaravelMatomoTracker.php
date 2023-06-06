@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfrasc\MatomoTracker\Facades;
+namespace Agapanthus\MatomoTracker\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

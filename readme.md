@@ -5,7 +5,7 @@
 
 ## About
 
-The `alfrasc\laravel-matomo-tracker` Laravel package is a wrapper for the `piwik\piwik-php-tracker`. The Piwik php tracker allows serverside tracking.
+The `agapanthus\laravel-matomo-tracker` Laravel package is a wrapper for the `piwik\piwik-php-tracker`. The Piwik php tracker allows serverside tracking.
 
 ## Features
 
@@ -18,9 +18,9 @@ Feel free to suggest new features.
 
 Via Composer
 
-Require the `alfrasc\laravel-matomo-tracker` package in your `composer.json` and update your dependencies:
+Require the `agapanthus\laravel-matomo-tracker` package in your `composer.json` and update your dependencies:
 ``` bash
-$ composer require alfrasc/laravel-matomo-tracker
+$ composer require agapanthus/laravel-matomo-tracker
 ```
 
 Publish the config file (optional)
@@ -122,10 +122,10 @@ If you discover any security related issues, please email alexander.schmidhuber@
 
 BSD-3-Clause. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/alfrasc/laravel-matomo-tracker.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/alfrasc/laravel-matomo-tracker.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/agapanthus/laravel-matomo-tracker.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/agapanthus/laravel-matomo-tracker.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/alfrasc/laravel-matomo-tracker
-[link-downloads]: https://packagist.org/packages/alfrasc/laravel-matomo-tracker
-[link-author]: https://github.com/alfrasc
+[link-packagist]: https://packagist.org/packages/agapanthus/laravel-matomo-tracker
+[link-downloads]: https://packagist.org/packages/agapanthus/laravel-matomo-tracker
+[link-author]: https://github.com/agapanthus
 [link-contributors]: ../../contributors

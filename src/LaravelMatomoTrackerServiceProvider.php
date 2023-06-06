@@ -1,6 +1,6 @@
 <?php
 
-namespace Alfrasc\MatomoTracker;
+namespace Agapanthus\MatomoTracker;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Config;
