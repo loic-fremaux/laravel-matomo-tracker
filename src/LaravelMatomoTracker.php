@@ -41,6 +41,7 @@ class LaravelMatomoTracker extends MatomoTracker
      */
     private function setMatomoVariables(Request $request, int $idSite = null, string $apiUrl = null)
     {
+        $this->requestConnectTimeout = 300;
 
         $this->apiUrl = $apiUrl ?: config('matomotracker.url');
         $this->idSite = $idSite ?: config('matomotracker.idSite');
